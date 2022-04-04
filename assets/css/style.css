@@ -1,0 +1,57 @@
+body {
+	background-color: #4babff;
+}
+
+.bg-body {
+	background-color: #98cfff;
+}
+
+.card {
+	border-radius: 20px;
+}
+
+input {
+	border: 1px solid #a1a1a1;
+	outline: none;
+}
+.cls-1 {
+	fill: #138ffc;
+}
+.nav-link {
+	color: white;
+	font-weight: bold;
+}
+
+#container {
+	min-height: 100%;
+	position: relative;
+}
+#header {
+	padding: 2px;
+}
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 1px; /* tinggi dari footer */
+}
+
+#success-message,
+#error-message {
+	background: #def1d8;
+	color: green;
+	font-size: 18px;
+	padding: 4px;
+	margin: 4px;
+	display: none;
+	position: fixed;
+	right: 15px;
+	top: 15px;
+	z-index: 20;
+	border-radius: 5px;
+}
+
+#error-message {
+	background: #efdcdd;
+	color: red;
+}
