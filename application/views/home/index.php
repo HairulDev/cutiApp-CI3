@@ -12,8 +12,8 @@
     <div class="container mt-5">
     <div class="card bg-body border-white" style="font-size: 14px;">
         <div class="text-center mt-4">
-            <img src="<?= base_url('assets/img/mceasy.png') ?>" width="100px" />
-                <h4 class="text-center">PT. Otto Menara Globalindo </h4>
+            <img src="<?= base_url('assets/img/.png') ?>" width="100px" />
+                <h4 class="text-center">PT. X </h4>
         </div>
         <div class="row">
             <div class="col-lg-6 text-center">
